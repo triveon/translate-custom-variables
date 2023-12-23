@@ -1,0 +1,21 @@
+{
+    "name": "triveon/translate-custom-variables",
+    "description": "A module to use custom variables in translatable CMS strings",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0"
+    ],
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Triveon\\TransCustomVars\\": ""
+        }
+    }
+}
+

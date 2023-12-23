@@ -1,0 +1,10 @@
+vendor/
+node_modules/
+Controller/Test/
+Controller/Adminhtml/Test/
+Build/
+build
+.idea/
+composer.lock
+*.map
+.DS_Store
