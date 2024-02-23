@@ -22,7 +22,7 @@ php bin/magento maintenance:enable
 
 1. Install the extension:
 ~~~~shell
-composer require tig/postnl-magento2
+composer require triveon/translate-custom-variables
 ~~~~
 
 2. Enable the Translate Custom Variables Magento 2 plugin
