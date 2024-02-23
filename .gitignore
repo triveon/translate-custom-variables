@@ -5,6 +5,5 @@ Controller/Adminhtml/Test/
 Build/
 build
 .idea/
-composer.lock
 *.map
 .DS_Store

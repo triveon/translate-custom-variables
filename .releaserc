@@ -12,6 +12,13 @@
         "changelogFile": "CHANGELOG.md"
       }
     ],
+    "@iwavesmedia/semantic-release-composer",
+    [
+      "@semantic-release/exec",
+      {
+        "prepareCmd": "composer update --lock"
+      }
+    ],
     [
       "@semantic-release/git",
       {
